@@ -28,3 +28,18 @@ C:\Users\mI\OneDrive\Документы\GeekBrains\Homework\С#\task\obj\Debug\n
 C:\Users\mI\OneDrive\Документы\GeekBrains\Homework\С#\task\obj\Debug\net6.0\ref\С#.dll
 C:\Users\mI\OneDrive\Документы\GeekBrains\Homework\С#\task\obj\Debug\net6.0\С#.pdb
 C:\Users\mI\OneDrive\Документы\GeekBrains\Homework\С#\task\obj\Debug\net6.0\С#.genruntimeconfig.cache
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\obj\Debug\net6.0\С#.csproj.AssemblyReference.cache
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\obj\Debug\net6.0\С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\obj\Debug\net6.0\С#.AssemblyInfoInputs.cache
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\obj\Debug\net6.0\С#.AssemblyInfo.cs
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\obj\Debug\net6.0\С#.csproj.CoreCompileInputs.cache
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\obj\Debug\net6.0\С#.dll
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\obj\Debug\net6.0\ref\С#.dll
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\obj\Debug\net6.0\С#.pdb
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\bin\Debug\net6.0\С#.exe
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\bin\Debug\net6.0\С#.deps.json
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\bin\Debug\net6.0\С#.runtimeconfig.json
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\bin\Debug\net6.0\С#.dll
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\bin\Debug\net6.0\ref\С#.dll
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\bin\Debug\net6.0\С#.pdb
+C:\Users\mI\OneDrive\Документы\GeekBrains\2_Seminars\Знакомства с языками программирования (C#)\task\task001_^2\obj\Debug\net6.0\С#.genruntimeconfig.cache

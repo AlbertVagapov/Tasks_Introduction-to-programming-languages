@@ -1,8 +1,8 @@
 ﻿// Вывести квадрат числа
-
-Console.Write("Введите число")
-
-
+Console.WriteLine("Введите число: ");
+int n = int.Parse(Console.ReadLine());
+Console.WriteLine("n = "+ n);
+Console.WriteLine("n^2 = "+ n*n);
 
 
 
