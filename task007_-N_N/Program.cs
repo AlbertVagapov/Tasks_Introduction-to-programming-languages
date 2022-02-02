@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Показать числа от -N до N
+Console.WriteLine("Введите число N: ");
+int maxN = int.Parse(Console.ReadLine());
+
+int minN = -maxN;
+
+while (minN<=maxN)
+{
+    Console.WriteLine(minN);
+    minN++;
+}
