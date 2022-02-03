@@ -2,15 +2,15 @@
 Console.WriteLine("Введите число N: ");
 int maxN = int.Parse(Console.ReadLine());
 
-int minN = 1;
+int minN = 2;
 
-while(minN<maxN)
+while (minN <= maxN)
 {
 
-    if( minN % 2 == 0)
+    if (minN % 2 == 0)
     {
         Console.WriteLine(minN);
     }
-    minN++;
+    minN = minN + 2;
 }
 
