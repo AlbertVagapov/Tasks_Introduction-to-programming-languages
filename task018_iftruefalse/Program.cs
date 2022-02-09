@@ -2,7 +2,7 @@
 
 
 
-bool x = false;
+bool x = true;
 bool y = false;
 
 if(x)
