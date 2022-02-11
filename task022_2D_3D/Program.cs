@@ -1,4 +1,4 @@
-﻿// Найти расстояние между точками в пространстве 2D/3D
+﻿// Найти расстояние между точками в пространстве 2D/3D. Одна точка в 2D другая в 3D.
 
 Console.WriteLine("Введите значение x1: ");
 double x1 = double.Parse(Console.ReadLine());
@@ -15,5 +15,5 @@ double y2 = double.Parse(Console.ReadLine());
 Console.WriteLine("Введите значение z2: ");
 double z2 = double.Parse(Console.ReadLine());
 
-int L =  Convert.ToInt32(math.Sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2) + z2 * z2));
+double L =  Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2) + Math.Pow(z2, 2));
 Console.WriteLine(L);
