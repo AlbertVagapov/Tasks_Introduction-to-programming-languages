@@ -4,7 +4,7 @@ Console.WriteLine("Введите число N: ");
 int N = int.Parse(Console.ReadLine());
 int sum = 0;
 int index = 1;
-
+Console.WriteLine();
 while (index <= N)
 { 
     sum = index*index*index;
