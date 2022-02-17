@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Найти сумму чисел одномерного массива, стоящих на нечётной позиции.
