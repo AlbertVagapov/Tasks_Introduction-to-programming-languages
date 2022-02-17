@@ -1,8 +1,5 @@
 ﻿// Задача 34: Написать программу для замены элементов массива на противоположные.
 
-
-Console.WriteLine();
-
 void FillArray(int[] collection)
 {
     int length = collection.Length;
