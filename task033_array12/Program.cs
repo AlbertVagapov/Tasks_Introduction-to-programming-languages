@@ -8,12 +8,20 @@ int sum_plus = 0,
 for (int i = 0; i < array.Length; i++)
 {
     array[i] = new Random().Next(-10, 10);
+    Console.Write(array[i]);
+    Console.Write(" ");
 
     if (array[i] > 0)
+    {
         sum_plus += array[i];
+    }
+        
     else
+    {
         sum_minus += array[i];
+    }
 }
+
 
 Console.WriteLine(sum_plus);
 Console.WriteLine(sum_minus);
